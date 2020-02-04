@@ -1,0 +1,31 @@
+Date: 2020-02-03T20:37:42.965369; Type: Failed Login; User IP Address: /127.0.0.1; User: peter
+Date: 2020-02-03T20:37:53.021050; Type: Failed Login; User IP Address: /127.0.0.1; User: peter
+Date: 2020-02-03T20:37:56.287011; Type: Failed Login; User IP Address: /127.0.0.1; User: peter
+Date: 2020-02-03T20:40:08.918854; Type: Failed Login; User IP Address: /127.0.0.1; User: null
+Date: 2020-02-03T20:45:55.879111; Type: Add Admin; User IP Address: /127.0.0.1; User: peter; Affected User: george
+Date: 2020-02-03T20:45:55.900689; Type: Add Admin; User IP Address: /127.0.0.1; User: peter; Affected User: george
+ Is successful: true
+Date: 2020-02-03T20:46:26.809131; Type: Remove admin; User IP Address: /127.0.0.1; User: george; Affected User: peter
+Date: 2020-02-03T20:46:26.812189; Type: Remove admin; User IP Address: /127.0.0.1; User: george; Affected User: peter
+ Is successful: true
+Date: 2020-02-03T20:46:41.880819; Type: Remove admin; User IP Address: /127.0.0.1; User: george; Affected User: george
+Date: 2020-02-03T20:46:41.883817; Type: Remove admin; User IP Address: /127.0.0.1; User: george; Affected User: george
+ Is successful: false
+Date: 2020-02-03T20:47:30.707173; Type: Add Admin; User IP Address: /127.0.0.1; User: george; Affected User: peter
+Date: 2020-02-03T20:47:30.710292; Type: Add Admin; User IP Address: /127.0.0.1; User: george; Affected User: peter
+ Is successful: true
+Date: 2020-02-03T20:47:37.657875; Type: Add Admin; User IP Address: /127.0.0.1; User: george; Affected User: peter
+Date: 2020-02-03T20:47:37.674534; Type: Add Admin; User IP Address: /127.0.0.1; User: george; Affected User: peter
+ Is successful: true
+Date: 2020-02-03T20:48:01.507645; Type: Remove admin; User IP Address: /127.0.0.1; User: george; Affected User: george
+Date: 2020-02-03T20:48:01.510599; Type: Remove admin; User IP Address: /127.0.0.1; User: george; Affected User: george
+ Is successful: true
+Date: 2020-02-04T07:50:25.300567; Type: Failed Login; User IP Address: /127.0.0.1; User: peter
+Date: 2020-02-04T07:50:35.460330; Type: Failed Login; User IP Address: /127.0.0.1; User: peter
+Date: 2020-02-04T09:11:08.152709; Type: Failed Login; User IP Address: /127.0.0.1; User: null
+Date: 2020-02-04T09:12:41.056254; Type: Failed Login; User IP Address: /127.0.0.1; User: null
+Date: 2020-02-04T09:13:17.315620; Type: Failed Login; User IP Address: /127.0.0.1; User: null
+Date: 2020-02-04T09:13:19.094632; Type: Failed Login; User IP Address: /127.0.0.1; User: null
+Date: 2020-02-04T09:13:33.404428; Type: Failed Login; User IP Address: /127.0.0.1; User: null
+Date: 2020-02-04T09:13:48.275800; Type: Failed Login; User IP Address: /127.0.0.1; User: null
+Date: 2020-02-04T09:13:54.142817; Type: Failed Login; User IP Address: /127.0.0.1; User: null
