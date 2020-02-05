@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e2e2a21-87b6-4ec9-a9b3-ae0f04b40ca7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_practice-problems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fractionsimplifier/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funnelchecker/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/wordanalyzer/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_practiceproblems/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_practiceproblems/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_practiceproblems/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_practiceproblems/01_practice-problems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/01_intro.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_practiceproblems/out/production/01_practice-problems/FractionSimplifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_practiceproblems/out/production/01_practice-problems/FunnelChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_practiceproblems/out/production/01_practice-problems/WordAnalyzer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_practiceproblems/src/FractionSimplifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fractionsimplifier/FractionSimplifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_practiceproblems/src/FunnelChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/funnelchecker/FunnelChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_practiceproblems/src/WordAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/wordanalyzer/WordAnalyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/authserver.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/client/bg/sofia/uni/fmi/mjt/authapp/client/ChannelReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/client/bg/sofia/uni/fmi/mjt/authapp/client/ChannelWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/client/bg/sofia/uni/fmi/mjt/authapp/client/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/server/META-INF/server.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/server/bg/sofia/uni/fmi/mjt/authapp/auditlog/LogType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/server/bg/sofia/uni/fmi/mjt/authapp/auditlog/Logger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/server/bg/sofia/uni/fmi/mjt/authapp/db/UsersFileHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/server/bg/sofia/uni/fmi/mjt/authapp/exceptions/FileIoException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/server/bg/sofia/uni/fmi/mjt/authapp/exceptions/OpType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/server/bg/sofia/uni/fmi/mjt/authapp/exceptions/PasswordException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/server/bg/sofia/uni/fmi/mjt/authapp/exceptions/SocketChannelException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/server/bg/sofia/uni/fmi/mjt/authapp/requesthandler/RequestHandler$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/server/bg/sofia/uni/fmi/mjt/authapp/requesthandler/RequestHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/server/bg/sofia/uni/fmi/mjt/authapp/requesthandler/RequestHandlerConstants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/server/bg/sofia/uni/fmi/mjt/authapp/security/PasswordHasher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/server/bg/sofia/uni/fmi/mjt/authapp/server/CommandFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/server/bg/sofia/uni/fmi/mjt/authapp/server/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/server/bg/sofia/uni/fmi/mjt/authapp/session/Session.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/server/bg/sofia/uni/fmi/mjt/authapp/session/SessionStorage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/server/bg/sofia/uni/fmi/mjt/authapp/session/SessionStorage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/server/bg/sofia/uni/fmi/mjt/authapp/socketio/SocketChannelIoHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/server/bg/sofia/uni/fmi/mjt/authapp/users/Role.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/server/bg/sofia/uni/fmi/mjt/authapp/users/User$UserBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../course-project_authserver/out/production/server/bg/sofia/uni/fmi/mjt/authapp/users/User.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1XNR0uMfzY6VOD1hbQekIFmNNax" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/wordanalyzer" />
+      <recent name="$PROJECT_DIR$/src/fractionsimplifier" />
+      <recent name="$PROJECT_DIR$/src/funnelchecker" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e2e2a21-87b6-4ec9-a9b3-ae0f04b40ca7" name="Default Changelist" comment="" />
+      <created>1580884345452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580884345452</updated>
+      <workItem from="1580884347151" duration="295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="557" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1580884419860">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="557" y="288" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/67.27.1299.741@67.27.1299.741" timestamp="1580884419860" />
+    <state x="67" y="27" width="1289" height="741" key="CommitChangelistDialog2" timestamp="1580884547747">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1289" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1580884547747" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1580884639713">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1580884639713" />
+  </component>
+</project>
