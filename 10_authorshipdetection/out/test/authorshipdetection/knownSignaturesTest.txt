@@ -1,3 +1,0 @@
-Agatha Christie, 4, 2, 1, 10, 3
-Alexandre Dumas, 3, 3, 2, 12, 6
-Brothers Grim, 2, 4, 3, 12, 5
